@@ -300,7 +300,6 @@ height: 100vh;
         justify-content: space-between;
         align-items: center;
         margin: auto;
-    l
     }
     .add-to-cart-2 button{
         background-color: orange;
@@ -311,7 +310,6 @@ height: 100vh;
         border: none;
         height: 30px;
         border-radius: 5px;
-
     }
     .add-to-cart-1{
         display: flex;
@@ -322,7 +320,7 @@ height: 100vh;
         
     }
     .add-to-cart-1 button{
-        background-color: orange;
+        background-color: purple;
         color: white;
         width: 100px;
         height: 30px;
@@ -330,5 +328,6 @@ height: 100vh;
         font-size: 12px;
         margin-right: 10px;
         border: none;
+    
 
     }
